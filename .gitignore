@@ -1,0 +1,15 @@
+.env
+server/.env
+server/data/submissions.json
+
+node_modules/
+server/node_modules/
+
+dist/
+build/
+.vite/
+.vite-temp/
+
+.DS_Store
+.vscode/
+.idea/
